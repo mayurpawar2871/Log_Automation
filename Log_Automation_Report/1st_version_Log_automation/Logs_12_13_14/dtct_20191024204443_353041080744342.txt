@@ -1,0 +1,410 @@
+2019/10/24 19:41:42 HybridGw: Logs published, created new log file.
+2019/10/24 19:41:45 Disconnecting from cellular network.
+2019/10/24 19:41:46 Network Connection Status changed! [ConnectionLost]
+2019/10/24 19:41:50 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 19:41:52 Starting log low power timer with 3600 seconds.
+                    Entering low power mode for 180 seconds.
+2019/10/24 19:42:09 Sampling start from coordinator [000000][B0][15][-11].
+2019/10/24 19:42:10 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 19:42:43 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/24 19:42:44 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 19:42:47 Sample count: 4000.
+2019/10/24 19:42:58 Synchronized sampling time: 2019-10-24T10:41:45+00:00
+                    Sample receiving completed.
+2019/10/24 19:42:59 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 19:43:00 Connecting to cellular network.
+2019/10/24 19:43:06 Network Status changed! [StatusNotAvailable]
+2019/10/24 19:43:12 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 19:43:57 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-85]
+2019/10/24 19:43:58 Connecting to altiuxinnovations.com:1884
+2019/10/24 19:44:02 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 19:44:04 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 19:44:47 Mcc: MQTT publishing done.
+2019/10/24 19:44:52 Disconnecting from cellular network.
+                    Network Connection Status changed! [ConnectionLost]
+2019/10/24 19:44:56 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 19:44:59 Entering low power mode for 180 seconds.
+2019/10/24 19:46:48 Sampling start from coordinator [000000][B0][16][-13].
+                    HybridGw: SENSOR sampling.
+2019/10/24 19:46:49 Started sampling...
+2019/10/24 19:47:22 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/24 19:47:23 Capturing done, now waiting for sample count...
+2019/10/24 19:47:26 Sample count: 4000.
+2019/10/24 19:47:36 Synchronized sampling time: 2019-10-24T10:46:46+00:00
+2019/10/24 19:47:37 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/24 19:47:38 HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 19:47:39 Connecting to cellular network.
+2019/10/24 19:47:45 Network Status changed! [StatusNotAvailable]
+2019/10/24 19:47:51 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 19:48:36 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-83]
+2019/10/24 19:48:37 Connecting to altiuxinnovations.com:1884
+2019/10/24 19:48:41 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 19:48:44 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 19:49:26 Mcc: MQTT publishing done.
+2019/10/24 19:49:30 Disconnecting from cellular network.
+2019/10/24 19:49:31 Network Connection Status changed! [ConnectionLost]
+2019/10/24 19:49:35 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 19:49:37 Entering low power mode for 180 seconds.
+2019/10/24 19:51:44 Sampling start from coordinator [000000][B0][17][-13].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 19:52:17 Sampling finished.
+2019/10/24 19:52:18 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 19:52:19 Sample count: 4000.
+2019/10/24 19:52:29 Synchronized sampling time: 2019-10-24T10:51:42+00:00
+2019/10/24 19:52:30 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/24 19:52:31 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 19:52:38 Network Status changed! [StatusNotAvailable]
+2019/10/24 19:52:44 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 19:53:28 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 19:53:29 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 19:53:34 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 19:53:36 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 19:54:18 Mcc: MQTT publishing done.
+2019/10/24 19:54:22 Disconnecting from cellular network.
+2019/10/24 19:54:23 Network Connection Status changed! [ConnectionLost]
+2019/10/24 19:54:28 Switching off ublox modem.
+2019/10/24 19:54:29 Network Status changed! [StatusNotAvailable]
+2019/10/24 19:54:31 Entering low power mode for 180 seconds.
+2019/10/24 19:56:45 Sampling start from coordinator [000000][B0][18][-13].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 19:57:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 19:57:23 Sample count: 4000.
+2019/10/24 19:57:33 Synchronized sampling time: 2019-10-24T10:56:43+00:00
+2019/10/24 19:57:34 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/24 19:57:35 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 19:57:42 Network Status changed! [StatusNotAvailable]
+2019/10/24 19:57:48 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 19:58:34 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-83]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 19:58:39 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 19:58:41 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 19:59:23 Mcc: MQTT publishing done.
+2019/10/24 19:59:28 Disconnecting from cellular network.
+2019/10/24 19:59:29 Network Connection Status changed! [ConnectionLost]
+2019/10/24 19:59:32 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 19:59:35 Entering low power mode for 180 seconds.
+2019/10/24 20:01:56 Sampling start from coordinator [000000][B0][19][-11].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:01:57 Started sampling...
+2019/10/24 20:02:30 Sampling finished.
+2019/10/24 20:02:31 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:02:34 Sample count: 4000.
+2019/10/24 20:02:45 Synchronized sampling time: 2019-10-24T11:01:43+00:00
+                    Sample receiving completed.
+2019/10/24 20:02:46 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+2019/10/24 20:02:47 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 20:02:54 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:03:00 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:03:44 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 20:03:45 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-83]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:03:51 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:03:52 Mcc: MQTT subscribing done
+2019/10/24 20:03:53 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:04:34 Mcc: MQTT publishing done.
+2019/10/24 20:04:39 Disconnecting from cellular network.
+2019/10/24 20:04:40 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:04:43 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:04:46 Entering low power mode for 180 seconds.
+2019/10/24 20:06:45 Sampling start from coordinator [000000][B0][20][-11].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 20:07:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:07:23 Sample count: 4000.
+2019/10/24 20:07:33 Synchronized sampling time: 2019-10-24T11:06:43+00:00
+2019/10/24 20:07:34 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/24 20:07:35 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 20:07:42 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:07:49 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:08:34 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/10/24 20:08:35 Signal: [**** ][-83]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:08:39 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:08:41 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:09:23 Mcc: MQTT publishing done.
+2019/10/24 20:09:28 Disconnecting from cellular network.
+2019/10/24 20:09:29 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:09:32 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:09:35 Entering low power mode for 180 seconds.
+2019/10/24 20:11:46 Sampling start from coordinator [000000][B0][21][-13].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:11:47 Started sampling...
+2019/10/24 20:12:20 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/24 20:12:21 Capturing done, now waiting for sample count...
+2019/10/24 20:12:24 Sample count: 4000.
+2019/10/24 20:12:35 Synchronized sampling time: 2019-10-24T11:11:44+00:00
+                    Sample receiving completed.
+2019/10/24 20:12:36 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 20:12:37 Connecting to cellular network.
+2019/10/24 20:12:43 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:12:50 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:13:34 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/10/24 20:13:35 Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:13:39 Mcc: MQTT connected.
+2019/10/24 20:13:40 Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:13:41 Mcc: MQTT subscribing done
+2019/10/24 20:13:42 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:14:23 Mcc: MQTT publishing done.
+2019/10/24 20:14:28 Disconnecting from cellular network.
+2019/10/24 20:14:29 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:14:34 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:14:36 Entering low power mode for 180 seconds.
+2019/10/24 20:16:45 Sampling start from coordinator [000000][B0][22][-13].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:16:46 Started sampling...
+2019/10/24 20:17:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/24 20:17:20 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:17:23 Sample count: 4000.
+2019/10/24 20:17:33 Synchronized sampling time: 2019-10-24T11:16:43+00:00
+2019/10/24 20:17:34 Sample receiving completed.
+2019/10/24 20:17:35 Time taken for data exchange is 12 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 20:17:36 Connecting to cellular network.
+2019/10/24 20:17:42 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:17:49 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:18:34 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-81]
+2019/10/24 20:18:35 Connecting to altiuxinnovations.com:1884
+2019/10/24 20:18:39 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:18:41 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:19:23 Mcc: MQTT publishing done.
+2019/10/24 20:19:27 Disconnecting from cellular network.
+2019/10/24 20:19:28 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:19:32 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:19:34 Entering low power mode for 180 seconds.
+2019/10/24 20:21:45 Sampling start from coordinator [000000][B0][23][-11].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:21:46 Started sampling...
+2019/10/24 20:22:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/24 20:22:20 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:22:23 Sample count: 4000.
+2019/10/24 20:22:34 Synchronized sampling time: 2019-10-24T11:21:43+00:00
+                    Sample receiving completed.
+2019/10/24 20:22:35 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+2019/10/24 20:22:36 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 20:22:43 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:22:49 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:23:34 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:23:39 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:23:41 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:24:22 Mcc: MQTT publishing done.
+2019/10/24 20:24:27 Disconnecting from cellular network.
+2019/10/24 20:24:28 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:24:34 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:24:36 Entering low power mode for 180 seconds.
+2019/10/24 20:26:45 Sampling start from coordinator [000000][B0][24][-11].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 20:27:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:27:23 Sample count: 4000.
+2019/10/24 20:27:33 Synchronized sampling time: 2019-10-24T11:26:43+00:00
+2019/10/24 20:27:34 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/24 20:27:35 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 20:27:42 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:27:48 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:28:32 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 20:28:33 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:28:38 Mcc: MQTT connected.
+2019/10/24 20:28:39 Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:28:40 Mcc: MQTT subscribing done
+2019/10/24 20:28:41 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:29:22 Mcc: MQTT publishing done.
+2019/10/24 20:29:27 Disconnecting from cellular network.
+2019/10/24 20:29:28 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:29:34 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:29:36 Entering low power mode for 180 seconds.
+2019/10/24 20:31:45 Sampling start from coordinator [000000][B0][25][-11].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:31:46 Started sampling...
+2019/10/24 20:32:19 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/24 20:32:20 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:32:23 Sample count: 4000.
+2019/10/24 20:32:33 Synchronized sampling time: 2019-10-24T11:31:43+00:00
+2019/10/24 20:32:34 Sample receiving completed.
+2019/10/24 20:32:35 Time taken for data exchange is 12 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 20:32:36 Connecting to cellular network.
+2019/10/24 20:32:42 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:32:51 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:33:35 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 20:33:36 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-83]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:33:41 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:33:43 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:34:25 Mcc: MQTT publishing done.
+2019/10/24 20:34:29 Disconnecting from cellular network.
+2019/10/24 20:34:30 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:34:33 Switching off ublox modem.
+2019/10/24 20:34:34 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:34:36 Entering low power mode for 180 seconds.
+2019/10/24 20:36:46 Sampling start from coordinator [000000][B0][26][-11].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/24 20:37:19 Sampling finished.
+2019/10/24 20:37:20 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/24 20:37:21 Sample count: 4000.
+2019/10/24 20:37:31 Synchronized sampling time: 2019-10-24T11:36:43+00:00
+2019/10/24 20:37:32 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/24 20:37:33 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 20:37:41 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:37:46 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:38:30 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 20:38:31 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:38:36 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:38:38 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:39:20 Mcc: MQTT publishing done.
+2019/10/24 20:39:24 Disconnecting from cellular network.
+2019/10/24 20:39:25 Network Connection Status changed! [ConnectionLost]
+2019/10/24 20:39:29 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 20:39:31 Entering low power mode for 180 seconds.
+2019/10/24 20:41:52 Stopping log low power timer.
+2019/10/24 20:41:53 HybridGw: Log VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+2019/10/24 20:41:54 Connecting to cellular network.
+2019/10/24 20:42:01 Network Status changed! [StatusNotAvailable]
+2019/10/24 20:42:07 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 20:42:51 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/10/24 20:42:52 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 20:42:57 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080744342/OTA]
+2019/10/24 20:42:58 Mcc: MQTT subscribing done
+2019/10/24 20:42:59 Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080744342/OTA/Status].
+2019/10/24 20:43:02 Mcc: MQTT publishing done.
+2019/10/24 20:43:07 Sampling start from coordinator [000000][B0][27][-13].
+                    HybridGw: SENSOR sampling.
+2019/10/24 20:43:08 Started sampling...
+2019/10/24 20:43:41 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/24 20:43:42 Capturing done, now waiting for sample count...
+2019/10/24 20:43:45 Sample count: 4000.
+2019/10/24 20:43:55 Synchronized sampling time: 2019-10-24T11:41:58+00:00
+2019/10/24 20:43:56 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/24 20:43:57 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/24 20:44:38 Mcc: MQTT publishing done.
+2019/10/24 20:44:43 HybridGw: LOG upload.

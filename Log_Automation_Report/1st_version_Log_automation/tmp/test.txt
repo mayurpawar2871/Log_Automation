@@ -1,0 +1,17 @@
+MQTT publishing fail, retry
+MQTT connecting failed/TCP connect failed
+Remote command executing, failed
+Something wrong with connectivity, MQTT maximum publish 
+attempted, so dropping this message
+
+Waiting master timeout
+"Master => Invalid message received
+Slave => Invalid message received"
+PAN is not matching
+Recovered from BUS/HARD FAULT
+
+Could not receive capture done intime
+SENSOR board is not behaving properly, so restarting
+SENSOR sampling fail
+SENSOR board is not behaving properly, so restarting.
+

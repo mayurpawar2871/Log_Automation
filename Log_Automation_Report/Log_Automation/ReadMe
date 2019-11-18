@@ -1,0 +1,25 @@
+
+********************************************
+PRE-REQUISITES
+********************************************
+
+1) add / remove keywwords under column E "Log keyword" which you want in our report
+
+2)  Copy all long run logs inside folder "Logs_long_run"
+
+3) Update line number 35 of python code with path  "/home/sim/Documents/SHM/Testing/Log_Automation_Report/Log_Automation/Logs_long_run"
+
+4) execute linux cmd "pip install xlrd"
+
+5)  execute linux cmd "pip install xlwt"
+
+6)  execute  cmd on ubuntu   "python Integrated_Log_Automation.py"
+
+7)  In case of windows set environment variable & install all python dependencies  "https://www.youtube.com/watch?v=mXXlt9bFIuI" . But recommend to use on ubuntu.
+
+
+********************************************
+LIMITATION :
+********************************************
+1) Everytime delete old report & then Copy & replace new copied file with name  "Main_Report_format.xlsx" with "Main_Report.xlsx"
+

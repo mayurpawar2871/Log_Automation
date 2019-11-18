@@ -1,0 +1,184 @@
+2019/10/27 14:13:47 HybridGw: Logs published, created new log file.
+2019/10/27 14:14:16 Sampling start from coordinator [000000][B0][171][-9].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:14:50 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/27 14:14:51 Capturing done, now waiting for sample count...
+2019/10/27 14:14:54 Sample count: 4000.
+2019/10/27 14:15:04 Synchronized sampling time: 2019-10-27T05:13:59+00:00
+2019/10/27 14:15:05 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/27 14:15:06 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:15:47 Mcc: MQTT publishing done.
+2019/10/27 14:19:14 Sampling start from coordinator [000000][B0][172][-10].
+2019/10/27 14:19:15 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:19:48 Sampling finished.
+2019/10/27 14:19:49 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+                    Sample count: 4000.
+2019/10/27 14:20:00 Synchronized sampling time: 2019-10-27T05:19:09+00:00
+2019/10/27 14:20:01 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:20:43 Mcc: MQTT publishing done.
+2019/10/27 14:24:04 Sampling start from coordinator [000000][B0][173][-10].
+2019/10/27 14:24:05 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:24:38 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/27 14:24:39 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 14:24:42 Sample count: 4000.
+2019/10/27 14:24:53 Synchronized sampling time: 2019-10-27T05:23:59+00:00
+                    Sample receiving completed.
+2019/10/27 14:24:54 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:25:36 Mcc: MQTT publishing done.
+2019/10/27 14:29:05 Sampling start from coordinator [000000][B0][174][-10].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:29:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 14:29:40 Sample count: 4000.
+2019/10/27 14:29:50 Synchronized sampling time: 2019-10-27T05:28:59+00:00
+2019/10/27 14:29:51 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/27 14:29:52 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:30:33 Mcc: MQTT publishing done.
+2019/10/27 14:34:05 Sampling start from coordinator [000000][B0][175][-10].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:34:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/27 14:34:40 Capturing done, now waiting for sample count...
+2019/10/27 14:34:43 Sample count: 4000.
+2019/10/27 14:34:53 Synchronized sampling time: 2019-10-27T05:33:59+00:00
+2019/10/27 14:34:54 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/27 14:34:55 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:35:37 Mcc: MQTT publishing done.
+2019/10/27 14:39:05 Sampling start from coordinator [000000][B0][176][-10].
+                    HybridGw: SENSOR sampling.
+2019/10/27 14:39:06 Started sampling...
+2019/10/27 14:39:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/27 14:39:40 Capturing done, now waiting for sample count...
+                    Sample count: 4000.
+2019/10/27 14:39:50 Synchronized sampling time: 2019-10-27T05:38:59+00:00
+2019/10/27 14:39:51 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/27 14:39:52 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:40:34 Mcc: MQTT publishing done.
+2019/10/27 14:44:05 Sampling start from coordinator [000000][B0][177][-10].
+                    HybridGw: SENSOR sampling.
+2019/10/27 14:44:06 Started sampling...
+2019/10/27 14:44:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/27 14:44:40 Capturing done, now waiting for sample count...
+2019/10/27 14:44:43 Sample count: 4000.
+2019/10/27 14:44:53 Synchronized sampling time: 2019-10-27T05:43:59+00:00
+2019/10/27 14:44:54 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/27 14:44:55 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:45:36 Mcc: MQTT publishing done.
+2019/10/27 14:49:05 Sampling start from coordinator [000000][B0][178][-10].
+                    HybridGw: SENSOR sampling.
+2019/10/27 14:49:06 Started sampling...
+2019/10/27 14:49:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/27 14:49:40 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 14:49:43 Sample count: 4000.
+2019/10/27 14:49:53 Synchronized sampling time: 2019-10-27T05:48:59+00:00
+2019/10/27 14:49:54 Sample receiving completed.
+2019/10/27 14:49:55 Time taken for data exchange is 12 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:50:37 Mcc: MQTT publishing done.
+2019/10/27 14:54:05 Sampling start from coordinator [000000][B0][179][-10].
+2019/10/27 14:54:06 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:54:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/27 14:54:40 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 14:54:43 Sample count: 4000.
+2019/10/27 14:54:54 Synchronized sampling time: 2019-10-27T05:54:00+00:00
+                    Sample receiving completed.
+2019/10/27 14:54:55 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 14:55:37 Mcc: MQTT publishing done.
+2019/10/27 14:59:06 Sampling start from coordinator [000000][B0][180][-10].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 14:59:40 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 14:59:44 Sample count: 4000.
+2019/10/27 14:59:54 Synchronized sampling time: 2019-10-27T05:59:00+00:00
+2019/10/27 14:59:55 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+2019/10/27 14:59:56 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 15:00:42 Mcc: MQTT publishing done.
+2019/10/27 15:04:09 Sampling start from coordinator [000000][B0][181][-10].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 15:04:42 Sampling finished.
+2019/10/27 15:04:43 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 15:04:44 Sample count: 4000.
+2019/10/27 15:04:54 Synchronized sampling time: 2019-10-27T06:04:03+00:00
+2019/10/27 15:04:55 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/27 15:04:56 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 15:05:37 Mcc: MQTT publishing done.
+2019/10/27 15:09:05 Sampling start from coordinator [000000][B0][182][-10].
+2019/10/27 15:09:06 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 15:09:39 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/27 15:09:40 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 15:09:43 Sample count: 4000.
+2019/10/27 15:09:54 Synchronized sampling time: 2019-10-27T06:09:00+00:00
+                    Sample receiving completed.
+2019/10/27 15:09:55 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 15:10:37 Mcc: MQTT publishing done.
+2019/10/27 15:14:06 Sampling start from coordinator [000000][B0][183][-10].
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/27 15:14:40 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/27 15:14:41 Sample count: 4000.
+2019/10/27 15:14:51 Synchronized sampling time: 2019-10-27T06:14:00+00:00
+2019/10/27 15:14:52 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/27 15:14:53 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080744342/Device/Status].
+2019/10/27 15:15:34 Mcc: MQTT publishing done.
+2019/10/27 15:15:38 HybridGw: LOG upload.

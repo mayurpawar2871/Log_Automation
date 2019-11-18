@@ -1,0 +1,159 @@
+2019/11/14 17:28:05 HybridGw: Logs published, created new log file.
+2019/11/14 17:28:06 Entering low power mode for 600 seconds.
+2019/11/14 17:28:08 Entering low power mode for 600 seconds.
+2019/11/14 17:28:09 Disconnecting from cellular network.
+2019/11/14 17:28:10 Network Connection Status changed! [ConnectionLost]
+2019/11/14 17:28:13 Switching off ublox modem.
+2019/11/14 17:28:14 Network Status changed! [StatusNotAvailable]
+2019/11/14 17:28:16 Starting log low power timer with 3600 seconds.
+2019/11/14 17:31:33 Detected > Threshold: 0.050000, overcount: 1
+                    HybridGw: SENSOR vibration detected.
+2019/11/14 17:31:34 HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/11/14 17:31:35 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/11/14 17:31:36 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/11/14 17:32:19 Sampling finished.
+2019/11/14 17:32:20 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[50].
+                    Capturing done, now waiting for sample count...
+2019/11/14 17:32:24 Sample count: 5000.
+2019/11/14 17:32:36 Synchronized sampling time: 2019-11-14T08:31:34+00:00
+2019/11/14 17:32:37 Sample receiving completed.
+                    Time taken for data exchange is 13 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/11/14 17:32:38 Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 17:32:45 Network Status changed! [StatusNotAvailable]
+2019/11/14 17:32:51 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 17:33:35 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/11/14 17:33:36 CellularConnectivity: Connection Established.
+                    Signal: [*****][-69]
+                    Connecting to altiuxinnovations.com:1884
+2019/11/14 17:33:41 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 17:33:43 Mcc: MQTT subscribing done
+                    Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 17:33:45 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741330/Device/Status].
+2019/11/14 17:34:44 Mcc: MQTT publishing done.
+2019/11/14 17:34:47 Entering low power mode for 600 seconds.
+2019/11/14 17:34:48 Entering low power mode for 600 seconds.
+2019/11/14 17:34:49 Disconnecting from cellular network.
+2019/11/14 17:34:50 Network Connection Status changed! [ConnectionLost]
+2019/11/14 17:34:55 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/11/14 17:44:58 HybridGw: VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 17:45:05 Network Status changed! [StatusNotAvailable]
+2019/11/14 17:45:11 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 17:45:56 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/11/14 17:45:57 Signal: [**** ][-77]
+                    Connecting to altiuxinnovations.com:1884
+2019/11/14 17:46:01 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 17:46:03 Mcc: MQTT subscribing done
+                    Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 17:46:05 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080741330/OTA/Status].
+2019/11/14 17:46:08 Mcc: MQTT publishing done.
+2019/11/14 17:46:13 Entering low power mode for 600 seconds.
+                    Disconnecting from cellular network.
+2019/11/14 17:46:14 Network Connection Status changed! [ConnectionLost]
+2019/11/14 17:46:17 Switching off ublox modem.
+2019/11/14 17:46:18 Network Status changed! [StatusNotAvailable]
+2019/11/14 17:56:20 HybridGw: VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+2019/11/14 17:56:21 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 17:56:28 Network Status changed! [StatusNotAvailable]
+2019/11/14 17:56:34 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 17:57:19 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-77]
+2019/11/14 17:57:20 Connecting to altiuxinnovations.com:1884
+2019/11/14 17:57:24 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 17:57:27 Mcc: MQTT subscribing done
+                    Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 17:57:28 Mcc: MQTT subscribing done
+2019/11/14 17:57:29 Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080741330/OTA/Status].
+2019/11/14 17:57:32 Mcc: MQTT publishing done.
+2019/11/14 17:57:36 Entering low power mode for 600 seconds.
+2019/11/14 17:57:37 Disconnecting from cellular network.
+                    Network Connection Status changed! [ConnectionLost]
+2019/11/14 17:57:41 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/11/14 18:07:44 HybridGw: VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 18:07:51 Network Status changed! [StatusNotAvailable]
+2019/11/14 18:07:57 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 18:08:42 CellularConnectivity: Couldn't connect: -3004, will retry.
+2019/11/14 18:08:43 CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/11/14 18:08:48 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 18:08:49 Mcc: MQTT subscribing done
+2019/11/14 18:08:50 Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 18:08:51 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080741330/OTA/Status].
+2019/11/14 18:08:54 Mcc: MQTT publishing done.
+2019/11/14 18:08:59 Entering low power mode for 600 seconds.
+                    Disconnecting from cellular network.
+2019/11/14 18:09:00 Network Connection Status changed! [ConnectionLost]
+2019/11/14 18:09:04 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/11/14 18:19:06 HybridGw: VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+2019/11/14 18:19:07 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 18:19:14 Network Status changed! [StatusNotAvailable]
+2019/11/14 18:19:20 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 18:20:05 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    Signal: [**** ][-79]
+2019/11/14 18:20:06 Connecting to altiuxinnovations.com:1884
+2019/11/14 18:20:10 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 18:20:12 Mcc: MQTT subscribing done
+                    Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 18:20:14 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080741330/OTA/Status].
+2019/11/14 18:20:17 Mcc: MQTT publishing done.
+2019/11/14 18:20:21 Entering low power mode for 600 seconds.
+2019/11/14 18:20:22 Disconnecting from cellular network.
+2019/11/14 18:20:23 Network Connection Status changed! [ConnectionLost]
+2019/11/14 18:20:26 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/11/14 18:28:16 Stopping log low power timer.
+2019/11/14 18:28:17 HybridGw: Log VLPR expired, so retaining normal mode.
+                    Mcc: Ensuring connectivity.
+                    Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/11/14 18:28:24 Network Status changed! [StatusNotAvailable]
+2019/11/14 18:28:30 Network Status changed! [RegisteredHomeNetwork]
+2019/11/14 18:29:15 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/11/14 18:29:16 Signal: [**** ][-77]
+                    Connecting to altiuxinnovations.com:1884
+2019/11/14 18:29:20 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080741330/OTA]
+2019/11/14 18:29:22 Mcc: MQTT subscribing done
+                    Mcc: MQTT subscribing [Entity/SHM/Node/0X0008/OTA]
+2019/11/14 18:29:24 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080741330/OTA/Status].
+2019/11/14 18:29:27 Mcc: MQTT publishing done.
+2019/11/14 18:29:34 HybridGw: LOG upload.

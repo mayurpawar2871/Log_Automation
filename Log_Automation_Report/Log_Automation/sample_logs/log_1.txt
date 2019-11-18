@@ -1,0 +1,4 @@
+SAMPLE command received from cloud
+Remote command executing, failed
+Remote command executing, failed
+PAN is not matching

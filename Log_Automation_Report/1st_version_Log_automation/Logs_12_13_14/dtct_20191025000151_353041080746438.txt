@@ -1,0 +1,128 @@
+                    HybridGw: Logs published, created new log file.
+2019/10/24 23:51:17 Disconnecting from cellular network.
+2019/10/24 23:51:18 Network Connection Status changed! [ConnectionLost]
+2019/10/24 23:51:23 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 23:51:26 Starting log low power timer with 3600 seconds.
+                    Entering low power mode for 180 seconds.
+2019/10/24 23:51:49 Sampling start from coordinator [000000][B0][65][-7].
+                    HybridGw: SENSOR sampling.
+2019/10/24 23:51:50 Started sampling...
+2019/10/24 23:52:23 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/24 23:52:24 Capturing done, now waiting for sample count...
+2019/10/24 23:52:27 Sample count: 4000.
+2019/10/24 23:52:38 Synchronized sampling time: 2019-10-24T14:51:47+00:00
+2019/10/24 23:52:39 Sample receiving completed.
+                    Time taken for data exchange is 12 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+2019/10/24 23:52:40 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 23:52:47 Network Status changed! [StatusNotAvailable]
+2019/10/24 23:52:53 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 23:53:37 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/10/24 23:53:38 Signal: [**** ][-73]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 23:53:42 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080746438/OTA]
+2019/10/24 23:53:44 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080746438/Device/Status].
+2019/10/24 23:54:27 Mcc: MQTT publishing done.
+2019/10/24 23:54:31 Disconnecting from cellular network.
+2019/10/24 23:54:32 Network Connection Status changed! [ConnectionLost]
+2019/10/24 23:54:37 Switching off ublox modem.
+2019/10/24 23:54:38 Network Status changed! [StatusNotAvailable]
+2019/10/24 23:54:40 Entering low power mode for 180 seconds.
+2019/10/24 23:56:49 Sampling start from coordinator [000000][B0][66][-6].
+                    HybridGw: SENSOR sampling.
+2019/10/24 23:56:50 Started sampling...
+2019/10/24 23:57:23 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/24 23:57:24 Capturing done, now waiting for sample count...
+2019/10/24 23:57:27 Sample count: 4000.
+2019/10/24 23:57:38 Synchronized sampling time: 2019-10-24T14:56:48+00:00
+2019/10/24 23:57:39 Sample receiving completed.
+                    Time taken for data exchange is 12 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: Ensuring connectivity.
+2019/10/24 23:57:40 Mcc: MQTT Connecting.
+                    Connecting to cellular network.
+2019/10/24 23:57:47 Network Status changed! [StatusNotAvailable]
+2019/10/24 23:57:53 Network Status changed! [RegisteredHomeNetwork]
+2019/10/24 23:58:38 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+2019/10/24 23:58:39 Signal: [**** ][-79]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/24 23:58:43 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080746438/OTA]
+2019/10/24 23:58:45 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080746438/Device/Status].
+2019/10/24 23:59:28 Mcc: MQTT publishing done.
+2019/10/24 23:59:32 Disconnecting from cellular network.
+2019/10/24 23:59:33 Network Connection Status changed! [ConnectionLost]
+2019/10/24 23:59:37 Switching off ublox modem.
+                    Network Status changed! [StatusNotAvailable]
+2019/10/24 23:59:40 Entering low power mode for 180 seconds.
+2019/10/25 00:00:07 HybridGw: Date Change VLPR expired, so restarting.
+1970/01/01 00:00:01 Running apricot v0.1.0
+1970/01/01 00:00:02 Running normal firmware.
+1970/01/01 00:00:03 HybridGw: Attempting cellular initialization...
+                    Connecting to cellular network.
+1970/01/01 00:00:06 Network Status changed! [StatusNotAvailable]
+1970/01/01 00:00:12 Network Status changed! [RegisteredHomeNetwork]
+1970/01/01 00:00:57 CellularConnectivity: Couldn't connect: -3004, will retry.
+                    CellularConnectivity: Connection Established.
+                    HybridGw: APRICOT Initializing.
+1970/01/01 00:00:58 HybridGw: IMEI: 353041080746438
+                    Selected: GSM/UMTS, Preferred: UMTS, Second Preffered: UNUSED
+                    Signal: [**** ][-73]
+1970/01/01 00:00:59 HybridGw: NTP synchronizing.
+2019/10/25 00:01:07 HybridGw: NTP synchronizing done.
+2019/10/25 00:01:08 EmsLora: Selecting Mode
+2019/10/25 00:01:12 EmsLora: Processor mode selected.
+                    Starting date change monitor low power timer with 86334 seconds.
+                    HybridGw: Configured with syncTime: 180, lowPowerMode: true
+2019/10/25 00:01:13 HybridGw: LORA starting done.
+                    HybridGw: LORA configuring.
+                    EmsLora: Already in configuration mode.
+                    EmsLora: Setting node type [End Device].
+2019/10/25 00:01:14 EmsLora: Setting bandwidth [500 kHz].
+                    EmsLora: Setting spread factor [7].
+                    EmsLora: Setting channel [3].
+2019/10/25 00:01:15 EmsLora: Setting pan [ABCD].
+                    EmsLora: Setting own id [000002].
+                    EmsLora: Setting ack [false].
+                    EmsLora: Setting transmission mode [2].
+2019/10/25 00:01:16 EmsLora: Setting received id [1].
+                    EmsLora: Setting rssi [1].
+                    EmsLora: Setting sleep mode [1].
+                    EmsLora: Setting power [13].
+2019/10/25 00:01:17 EmsLora: Setting start.
+                    HybridGw: LORA configuration done.
+                    Mcc: MQTT Connecting.
+2019/10/25 00:01:18 Signal: [**** ][-73]
+                    Connecting to altiuxinnovations.com:1884
+2019/10/25 00:01:29 Mcc: MQTT connected.
+                    Mcc: MQTT subscribing [Entity/SHM/Node/353041080746438/OTA]
+2019/10/25 00:01:31 Mcc: MQTT subscribing done
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080746438/OTA/Status].
+2019/10/25 00:01:35 Mcc: MQTT publishing done.
+2019/10/25 00:01:38 HybridGw: App sync.
+                    Fetching sensor module system info...
+2019/10/25 00:01:39 Info received as...
+                    Firmware: v0.1.0
+                    Running: Normal
+                    Updated: False
+2019/10/25 00:01:40 Threshold: X=0.050000 Y=0.050000 Z=0.050000 Count=1
+                    Offset Threshold: ADXL355=0.020408 SCA103T=2.000000
+                    Axis Offset: X=-0.004350 Y=-0.021043 Z=0.975434
+2019/10/25 00:01:41 ADF: Tap=32 Delay=0 Myu=0.002000 Alpha=0.015000
+                    IIR: Mode=0 FC=2.000000 Q=0.800000
+                    HybridGw: Remote command executing, passed.
+                    Mcc: MQTT publishing fota status [Entity/SHM/Node/353041080746438/OTA/Status].
+2019/10/25 00:01:45 Mcc: MQTT publishing done.
+2019/10/25 00:01:51 HybridGw: LOG upload.

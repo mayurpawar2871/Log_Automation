@@ -1,0 +1,314 @@
+                    HybridGw: Logs published, created new log file.
+2019/10/28 00:04:07 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:04:08 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:04:09 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:04:10 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:04:11 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:04:44 Sampling finished.
+2019/10/28 00:04:45 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:04:46 Sample count: 4000.
+2019/10/28 00:04:56 Synchronized sampling time: 2019-10-27T15:04:08+00:00
+                    Sample receiving completed.
+2019/10/28 00:04:57 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:05:37 Mcc: MQTT publishing done.
+2019/10/28 00:09:05 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+2019/10/28 00:09:06 Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:09:07 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:09:08 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:09:09 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:09:42 Sampling finished.
+2019/10/28 00:09:43 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:09:46 Sample count: 4000.
+2019/10/28 00:09:56 Synchronized sampling time: 2019-10-27T15:09:06+00:00
+2019/10/28 00:09:57 Sample receiving completed.
+                    Time taken for data exchange is 10 seconds.
+2019/10/28 00:09:58 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:10:39 Mcc: MQTT publishing done.
+2019/10/28 00:14:05 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:14:06 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:14:07 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:14:08 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:14:09 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:14:42 Sampling finished.
+2019/10/28 00:14:43 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:14:47 Sample count: 4000.
+2019/10/28 00:14:57 Synchronized sampling time: 2019-10-27T15:14:06+00:00
+2019/10/28 00:14:58 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:15:38 Mcc: MQTT publishing done.
+2019/10/28 00:19:05 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:19:06 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+2019/10/28 00:19:07 HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:19:08 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:19:09 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:19:43 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:19:47 Sample count: 4000.
+2019/10/28 00:19:57 Synchronized sampling time: 2019-10-27T15:19:07+00:00
+                    Sample receiving completed.
+2019/10/28 00:19:58 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:20:39 Mcc: MQTT publishing done.
+2019/10/28 00:24:05 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:24:06 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+2019/10/28 00:24:07 HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:24:08 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:24:09 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+2019/10/28 00:24:10 Started sampling...
+2019/10/28 00:24:43 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+2019/10/28 00:24:44 Capturing done, now waiting for sample count...
+2019/10/28 00:24:47 Sample count: 4000.
+2019/10/28 00:24:57 Synchronized sampling time: 2019-10-27T15:24:07+00:00
+2019/10/28 00:24:58 Sample receiving completed.
+                    Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:25:39 Mcc: MQTT publishing done.
+2019/10/28 00:29:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+2019/10/28 00:29:07 HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:29:08 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:29:09 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:29:10 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:29:43 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/28 00:29:44 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:29:47 Sample count: 4000.
+2019/10/28 00:29:57 Synchronized sampling time: 2019-10-27T15:29:07+00:00
+2019/10/28 00:29:58 Sample receiving completed.
+                    Time taken for data exchange is 10 seconds.
+2019/10/28 00:29:59 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:30:40 Mcc: MQTT publishing done.
+2019/10/28 00:34:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+2019/10/28 00:34:07 HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:34:08 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:34:09 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:34:10 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:34:43 Sampling finished.
+                    HybridGw: SENSOR receiving.
+2019/10/28 00:34:44 Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:34:47 Sample count: 4000.
+2019/10/28 00:34:57 Synchronized sampling time: 2019-10-27T15:34:07+00:00
+2019/10/28 00:34:58 Sample receiving completed.
+                    Time taken for data exchange is 10 seconds.
+                    HybridGw: SENSOR sampling done.
+2019/10/28 00:34:59 Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:35:39 Mcc: MQTT publishing done.
+2019/10/28 00:39:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+2019/10/28 00:39:07 Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:39:08 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:39:09 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:39:10 HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:39:43 Sampling finished.
+2019/10/28 00:39:44 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:39:47 Sample count: 4000.
+2019/10/28 00:39:57 Synchronized sampling time: 2019-10-27T15:39:07+00:00
+2019/10/28 00:39:58 Sample receiving completed.
+                    Time taken for data exchange is 10 seconds.
+2019/10/28 00:39:59 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:40:40 Mcc: MQTT publishing done.
+2019/10/28 00:44:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+2019/10/28 00:44:07 Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:44:08 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:44:09 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:44:10 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:44:43 Sampling finished.
+2019/10/28 00:44:44 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:44:48 Sample count: 4000.
+2019/10/28 00:44:58 Synchronized sampling time: 2019-10-27T15:44:07+00:00
+                    Sample receiving completed.
+2019/10/28 00:44:59 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:45:40 Mcc: MQTT publishing done.
+2019/10/28 00:49:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+                    Mcc: MQTT publishing done.
+2019/10/28 00:49:07 Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:49:08 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:49:09 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:49:10 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:49:43 Sampling finished.
+2019/10/28 00:49:44 HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:49:47 Sample count: 4000.
+2019/10/28 00:49:57 Synchronized sampling time: 2019-10-27T15:49:07+00:00
+2019/10/28 00:49:58 Sample receiving completed.
+                    Time taken for data exchange is 10 seconds.
+2019/10/28 00:49:59 HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:50:40 Mcc: MQTT publishing done.
+2019/10/28 00:54:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:54:07 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+                    HybridGw: LORA transmitting.
+2019/10/28 00:54:08 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:54:09 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:54:10 EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:54:44 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:54:48 Sample count: 4000.
+2019/10/28 00:54:58 Synchronized sampling time: 2019-10-27T15:54:07+00:00
+                    Sample receiving completed.
+2019/10/28 00:54:59 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 00:55:39 Mcc: MQTT publishing done.
+2019/10/28 00:59:06 Mcc: MQTT publishing void message [Entity/SHM/Node/0XABCD/OTA].
+2019/10/28 00:59:07 Mcc: MQTT publishing done.
+                    Mcc: SAMPLE command received from cloud.
+                    HybridGw: SENSOR vibration detected.
+2019/10/28 00:59:08 HybridGw: LORA transmitting.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+2019/10/28 00:59:09 EmsLora: Tx done.
+                    EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+2019/10/28 00:59:10 EmsLora: Transmitting to: 0xFFFFFF.
+                    EmsLora: Tx done.
+                    HybridGw: SENSOR sampling.
+                    Started sampling...
+2019/10/28 00:59:44 Sampling finished.
+                    HybridGw: SENSOR receiving.
+                    Initiating capture for sampled data, preload [10] duration[40].
+                    Capturing done, now waiting for sample count...
+2019/10/28 00:59:48 Sample count: 4000.
+2019/10/28 00:59:58 Synchronized sampling time: 2019-10-27T15:59:08+00:00
+                    Sample receiving completed.
+2019/10/28 00:59:59 Time taken for data exchange is 11 seconds.
+                    HybridGw: SENSOR sampling done.
+                    Mcc: MQTT publishing sample [Entity/SHM/Node/353041080741298/Device/Status].
+2019/10/28 01:00:40 Mcc: MQTT publishing done.
+2019/10/28 01:03:47 HybridGw: LOG upload.

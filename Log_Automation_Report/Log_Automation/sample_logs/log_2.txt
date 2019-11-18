@@ -1,0 +1,4 @@
+PAN is not matching
+Remote command executing, failed
+SENSOR sampling fail
+

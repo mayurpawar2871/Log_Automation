@@ -1,0 +1,5 @@
+SAMPLE command received from cloud
+PAN is not matching
+Remote command executing, failed
+asdsadasd
+sdsd Date changed, so restarting  sdsdsd
